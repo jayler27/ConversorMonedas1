@@ -11,7 +11,7 @@ Partial Class Form1
             End If
         Finally
             MyBase.Dispose(disposing)
-        End Try
+        End Trygit --version
     End Sub
 
     'Required by the Windows Form Designer
